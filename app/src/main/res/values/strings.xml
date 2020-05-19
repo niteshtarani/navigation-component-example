@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation Component Example</string>
+    <string name="navigate_to_second_fragment">Navigate to second fragment</string>
+    <string name="this_is_second_fragment">This is second fragment</string>
+</resources>
